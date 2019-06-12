@@ -1,3 +1,5 @@
+![cpplondon logo](docs/cpplondon-logo-light512.png)
+
 # The C++ London Repository
 
 Everything in [`/docs`](docs) is the website (currently just a redirect to meetup.com).
