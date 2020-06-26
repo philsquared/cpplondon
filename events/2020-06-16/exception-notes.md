@@ -1,6 +1,6 @@
-
-Notes in markdown, unformatted
 # How to improve exception throwing
+
+By Sumant Hanumante and Eduardo Madrid [youtube](https://www.youtube.com/watch?v=euMWIcTrwQQ)
 
 * Template code bloat judo
 * The best types are the most representative
@@ -165,10 +165,10 @@ Both are applicable to runtime polymorphism:
 A library that has a class hierarchy might be supported by facilities that use templates, we know that the parameters to `virtual` overrides are covariant, this will make the specific argument types in the derived classes to generate code bloat.
 
 
-- show quoted text -
+Sumant does not maintain an online presence.
 
--- 
+Eduardo's online coordinates:
 Blog: https://github.com/thecppzoo/thecppzoo.github.io formerly https://thecppzoo.blogspot.com/
 Github: https://github.com/thecppzoo
-Twitter: @thecppzoo https://twitter.com/thecppzoo
+Twitter: [@thecppzoo](https://twitter.com/thecppzoo)
 Slack cpplang: @thecppzoo
