@@ -9,4 +9,4 @@ Pavel Novikov
 Eduardo Madrid & Sumant Hunamante
 
 * [Video on YouTube](https://www.youtube.com/watch?v=euMWIcTrwQQ)
-* [Ed's notes](./exception-nodes.md)
+* [Ed's notes](./exception-notes.md)
